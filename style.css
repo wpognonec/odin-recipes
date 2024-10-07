@@ -1,0 +1,29 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+div h3 {
+  color: black;
+}
+
+div#ingredients {
+  background: yellow;
+  color: red;
+  border: black;
+  border-style: dotted;
+  width: 500px;
+  padding: 10px;
+}
+
+div#steps {
+  background: green;
+  color: blue;
+  border: black;
+  border-style: dotted;
+  width: 500px;
+  padding: 10px;
+}
